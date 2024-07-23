@@ -29,7 +29,7 @@ Input 2:
 Line 1:	AAGTC	XX	22
 Line 2:	GACTC	XY	43
 Line 3:	CGTTC	XY	36
-Line 4:	AAATC	XX 78
+Line 4:	AAATC	XX	78
 Line 5:	CTATC	XY	3
 Line 6:	CATTC	XY	18
 ```
