@@ -1,0 +1,15 @@
+File: C:\Users\franc\Desktop\batch_dos\github\input\file1.txt 
+N rows: 6 
+AAGTC: 3 
+CATTC: 2 
+CTTTC: 1 
+ 
+File: C:\Users\franc\Desktop\batch_dos\github\input\file2.txt 
+N rows: 6 
+AAATC: 1 
+AAGTC: 1 
+CATTC: 1 
+CGTTC: 1 
+CTATC: 1 
+GACTC: 1 
+ 
