@@ -34,7 +34,7 @@ Line 5:	CTATC	XY	3
 Line 6:	CATTC	XY	18
 ```
 
-The file is processed, and the result is in a new file.\
+The file is processed, and the result is provided into a new file.\
 Result:
 ```
 File: C:\...\file1.txt 
