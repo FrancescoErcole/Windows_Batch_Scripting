@@ -34,7 +34,7 @@ Line 5:	CTATC	XY	3
 Line 6:	CATTC	XY	18
 ```
 
-The file is processed, and the result is in a new file.
+The file is processed, and the result is in a new file.\
 Result:
 ```
 File: C:\...\file1.txt 
@@ -52,6 +52,8 @@ CGTTC: 1
 CTATC: 1 
 GACTC: 1 
 ```
+
+The script can also processes longer files.
 
 # Source
 - Batchography: The Art of Batch Files Programming
