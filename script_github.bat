@@ -29,7 +29,7 @@ goto :EOF
 		for %%B in (%%A) do (
 			set /A keycode_column_idx=!keycode_column_idx!+1
 			set str=%%B
-			REM Regex expression for keycode (digit, letter and then digit)
+			REM Regex expression for keycode (ACGT sequences)
 			Echo.!str! | findstr /irc:"^[ACGT][ACGT][ACGT][ACGT][ACGT] "  >nul
 			if !errorlevel!==0 (
 				call :GET_KEYCODE_DISTRIBUTION %~1 !keycode_column_idx!
