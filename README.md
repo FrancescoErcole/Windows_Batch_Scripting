@@ -34,8 +34,24 @@ Line 5:	CTATC	XY	3
 Line 6:	CATTC	XY	18
 ```
 
+The file is processed, and the result is in a new file.
 Result:
-
+```
+File: C:\...\file1.txt 
+N rows: 6 
+AAGTC: 3 
+CATTC: 2 
+CTTTC: 1 
+ 
+File: C:\...\file2.txt 
+N rows: 6 
+AAATC: 1 
+AAGTC: 1 
+CATTC: 1 
+CGTTC: 1 
+CTATC: 1 
+GACTC: 1 
+```
 
 # Source
 - Batchography: The Art of Batch Files Programming
